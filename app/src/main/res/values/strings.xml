@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="conectar">Iniciar Conexion</string>
+    <string name="app_name">Arduino</string>
+
+</resources>
